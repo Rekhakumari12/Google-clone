@@ -1,4 +1,7 @@
-import { React,useState, useRef } from 'react';
+import { React, useState, useRef } from 'react';
+import google from './images/google.png'
+import mic from './images/mic.png'
+import search from './images/search.png'
 export default function Main() {
   const [getQuery, setGetQuery] = useState(null)
   const input = useRef()
@@ -15,12 +18,12 @@ export default function Main() {
   return (
     <div className="App">
       <div className="main">
-        <img src={process.env.PUBLIC_URL + "/images/google.png"} alt="googleImg" />
+        <img src={google} alt="googleImg" />
         <div className="searchArea">
           <input type="text" className="searchInput" ref={input}onChange={(e)=> setGetQuery(e.target.value)}/>
             <div className="icons">
-            <img src={process.env.PUBLIC_URL+"/images/search.png"} alt="" />
-              <img src={process.env.PUBLIC_URL + "/images/mic.png"} alt="" />
+            <img src={search} alt="" />
+              <img src={mic} alt="" />
             </div>
           </div>
           <div className="button">
