@@ -9,7 +9,7 @@ export default function Main() {
     if (getQuery) {
       let url=`https://www.google.com/search?q=${getQuery}`
       window.open(url, '_self')
-      console.log(input.current.value='')
+      // console.log(input.current.value='')
    }
   }
   const feelingLucky = () => {

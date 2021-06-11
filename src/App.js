@@ -7,7 +7,7 @@ function App(){
     <>
       <Switch>
         <Route path='/googleclone' exact component={Main} />
-        <Redirect from='/' exact to='/googleclone'/>
+        <Redirect from='*' exact to='/googleclone'/>
       </Switch>
     </>
   )
