@@ -6,8 +6,8 @@ function App(){
   return (
     <>
       <Switch>
-        <Route path='/gh-pages-url/googleclone' exact component={Main} />
-        <Redirect from='/gh-pages-url' exact to='/googleclone'/>
+        <Route path='/Google-clone/googleclone' exact component={Main} />
+        <Redirect from='/Google-clone' exact to='/googleclone'/>
       </Switch>
     </>
   )
