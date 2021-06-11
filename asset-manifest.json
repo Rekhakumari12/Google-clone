@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Google-clone/static/css/main.e3715ee0.chunk.css",
-    "main.js": "/Google-clone/static/js/main.a42e4821.chunk.js",
-    "main.js.map": "/Google-clone/static/js/main.a42e4821.chunk.js.map",
+    "main.js": "/Google-clone/static/js/main.052d6f47.chunk.js",
+    "main.js.map": "/Google-clone/static/js/main.052d6f47.chunk.js.map",
     "runtime-main.js": "/Google-clone/static/js/runtime-main.3cab2333.js",
     "runtime-main.js.map": "/Google-clone/static/js/runtime-main.3cab2333.js.map",
-    "static/js/2.27c1716f.chunk.js": "/Google-clone/static/js/2.27c1716f.chunk.js",
-    "static/js/2.27c1716f.chunk.js.map": "/Google-clone/static/js/2.27c1716f.chunk.js.map",
+    "static/js/2.cda05f7c.chunk.js": "/Google-clone/static/js/2.cda05f7c.chunk.js",
+    "static/js/2.cda05f7c.chunk.js.map": "/Google-clone/static/js/2.cda05f7c.chunk.js.map",
     "index.html": "/Google-clone/index.html",
     "static/css/main.e3715ee0.chunk.css.map": "/Google-clone/static/css/main.e3715ee0.chunk.css.map",
-    "static/js/2.27c1716f.chunk.js.LICENSE.txt": "/Google-clone/static/js/2.27c1716f.chunk.js.LICENSE.txt"
+    "static/js/2.cda05f7c.chunk.js.LICENSE.txt": "/Google-clone/static/js/2.cda05f7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cab2333.js",
-    "static/js/2.27c1716f.chunk.js",
+    "static/js/2.cda05f7c.chunk.js",
     "static/css/main.e3715ee0.chunk.css",
-    "static/js/main.a42e4821.chunk.js"
+    "static/js/main.052d6f47.chunk.js"
   ]
 }
